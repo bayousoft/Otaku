@@ -1,0 +1,18 @@
+name = Otaku
+description = This theme was designed for the-otaku.tk.
+package = Core
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = style.css
+
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[header]         = Header
+regions[highlighted]    = Highlighted
+regions[content]        = Content
+regions[navigation]     = Navigation
+regions[help]           = Help
+regions[footer]         = Footer
+regions[page_top]       = Page top
+regions[page_bottom]    = Page bottom
+
