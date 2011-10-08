@@ -537,7 +537,7 @@ ul.secondary a.active {
 
 #footer a.feed-icon {
   position: absolute;
-  right: 0;
+  right: 20px;
   top: 1.6667em;
 }
 
