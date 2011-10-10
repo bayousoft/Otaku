@@ -76,8 +76,10 @@ h1.title, .node h2 a {
 	text-transform:uppercase;
 	font-weight:bold;
 	color:#2F2517;
-	text-shadow: 1px 1px 1px #fff;	
+	text-shadow: 1px 1px 1px #fff;
+	padding-bottom:20px	
 }
+
 
 h2, .h2 {
   font-size: 1.5385em;
